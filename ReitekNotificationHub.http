@@ -1,0 +1,6 @@
+@ReitekNotificationHub_HostAddress = http://localhost:5206
+
+GET {{ReitekNotificationHub_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
